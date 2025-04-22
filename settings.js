@@ -53,7 +53,7 @@ global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 global.moneda = '🟡 MayCoins'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://i.postimg.cc/LshcCbWC/descarga-1.jpg'
+global.banner = 'https://i.postimg.cc/ncF9s4gV/descarga-1-1.png'
 global.avatar = 'https://i.postimg.cc/W1P24C13/descarga-24.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
