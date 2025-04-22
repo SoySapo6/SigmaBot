@@ -77,7 +77,7 @@ let handler = async (m, { conn: _envio, command, usedPrefix, args, text, isOwner
         '♤ Adrián ♤', '☄️ Juan ☄️', '✺ Diego ✺', ' PENEEE  🍆', '✧ Fatima ✧', '⧉ Ariana ⧉', '⟆ Francisco ⟆',
         '꧁ Emmanuel ꧂', '꧁ Anabella ꧂', '✎ Emiliano ✎', '✧ Melody ✧', '⚘ Dayana ⚘', '➻❥ Valeria'
       ]
-
+      
       let fakeUsers = []
       for (let i = 2; i <= 62; i++) {
         const nombre = nombresRandom[Math.floor(Math.random() * nombresRandom.length)]
