@@ -1,163 +1,113 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-Bσƚ ✦</h1>
+<h1 align="center">|•𝙎𝙞𝙜𝙢𝙖𝘽𝙤𝙩•|</h1>
 
- <img src= "https://files.catbox.moe/om9jai.jpg">
-    </p>
+<p align="center">
+<img src="https://i.postimg.cc/gr9P9qC9/8fzhrv.png" width="300"/>
+</p>
 
-### **`❕️ Información importante`**
+---
+
+### ✧ Información General
 
 <details>
- <summary><b> ➮ Info • Bot</b></summary>
+<summary><b>⚙️ Sobre el Bot</b></summary>
 
-* Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
+> Este bot es un proyecto independiente y **no está afiliado con WhatsApp Inc.**  
+> Todo lo que ves aquí fue armado con puro fuego y locura... estilo Sigma.
+
 </details>
 
 <details>
- <summary><b> ➮ Funciones</b></summary>
+<summary><b>🚀 Funciones principales</b></summary>
 
-> Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
-
-- [x] Interacción con voz y texto
-- [x] Configuración de grupo
-- [x] antidelete, antilink, antispam, etc
-- [x] Bienvenida personalizada
-- [x] Juegos, tictactoe, mate, etc
-- [x] Chatbot (simsimi)
-- [x] Chatbot (autoresponder)
-- [x] Crear sticker de image/video/gif/url
-- [x] SubBot (Jadibot)
-- [x] Buscador Google
-- [x] Juego RPG
-- [x] Personalizar imagen del menú
-- [x] Descarga de música y video De YT
-- [ ] Otros
+- [x] Respuestas por voz y texto
+- [x] Comandos de grupo (antidelete, antilink, antispam, etc)
+- [x] Bienvenidas personalizadas con estilo
+- [x] Juegos locos: tictactoe, matemáticas y más
+- [x] Stickers de imagen/video/gif/url
+- [x] Chatbot modo simi y modo auto
+- [x] Modo Jadibot (SubBots)
+- [x] Buscador de Google, YouTube, y más
+- [x] Descarga de música y video desde YouTube
+- [x] Personalización del menú en imagen
+- [x] Sistema RPG / mascota virtual
+- [ ] Y mucho más loquísimo...
 
 </details>
 
 ---
 
-### **`✧ Click en la imagen para descargar termux ✧`**
-<a
-href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://qu.ax/finc.jpg" height="125px"></a> 
+### ✧ Descarga Termux
 
-### **`➮ Instalación por termux`**
+[Click aquí para instalar Termux](https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file)
+
+---
+
+### ✧ Instalación en Termux
 
 <details>
- <summary><b> ✎ Click para ver los Comandos </b></summary>
+<summary><b>▶️ Ver pasos para instalar</b></summary>
 
-### **❀ Instalación manual por termux**
-> Nota: Copie y pegue los comandos en termux uno por uno.
 ```bash
 termux-setup-storage
-```
-
-```bash
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
-
-```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
-```
-
-```bash
+git clone https://github.com/SoySapo6/SigmaBot.git && cd SigmaBot
 yarn install
-```
-
-```bash
 npm install
-```
-
-```bash
 npm update
+npm start
 ```
+> Si sale: (Y/I/N/O/D/Z) [default=N]? Escribe y y ENTER.
 
-```bash
+
+
+
+---
+
+🛠 ¿Se cerró el bot?
+
+```
+cd SigmaBot
 npm start
 ```
 
-> Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
-
-### **🜸 Activar en caso de detenerse en termux**
-
-> Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
-
-❒ Abre Termux y navega al directorio del bot:
-   
-   ```bash
-    cd Yuki_Suou-Bot
-   ```
-
-❒ Inicia el bot nuevamente:
-  
-   ```bash
-    npm start
-   ```
-
-### **✰ Volverte owner del Bot**
-
-> Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
-
-   ```bash
-    cd Yuki_Suou-Bot && nano settings.js
-   ```
-
-</details>
-
 ---
-### **`➮ Enlaces útiles`**
 
-<details>
- <summary><b> 🜸 Enlaces Oficiales </b></summary>
+👑 ¿Quieres ser owner?
 
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/CDw7hpI30WjCyKFAVLHNhZ)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa)
-</details>
-
-<details>
-<summary><b> ✰ Contáctos</b></summary>
-
-* WhatsApp: [`Aquí`](https:/Wa.me/528211111111)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+```
+cd SigmaBot && nano settings.js
+```
 
 </details>
 
 ---
 
-### **`✧ SKY-ULTRA-PLUS ✧`**
-
-<a
-href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
+✧ Enlaces Oficiales
 
 <details>
- <summary><b> ❒ Servidor Sky-Ultra-Plus</b></summary>
+<summary><b>Canal Insano 🥵</b></summary>Canal Oficial 🗿
 
-* Dashboard  [`Dash`](https://dash.skyultraplus.com)
-* Panel [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp [`Canal Sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-* Contacto(s) [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
-* Discord [`SkyUltraPlus`](https://discord.gg/Ph4eWsZ8)
+https://whatsapp.com/channel/0029VayXJte65yD6LQGiRB0R
+
+</details><details>
+<summary><b>📞 Contacto</b></summary>WhatsApp: 51921826291
+
+Email: karatekidamericatv@gmail.com
+
 
 </details>
+---
+
+✧ Creador Oficial
+
+<p align="center">
+  <a href="https://github.com/SoySapo6">
+    <img src="https://github.com/SoySapo6.png" width="120" height="120" style="border-radius: 50%;" alt="SoyMaycol">
+    <br><strong>@SoyMaycol</strong>
+  </a>
+</p>
 
 ---
 
-### **`❀ Colaboradores`**
-<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
-</a>
-
-### **`ᥫ᭡ Propietario`**
-<a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
-
-### **`🜸 Créditos`**
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/David-Chian" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/David-Chian.png" width="130" height="130" alt="David-Chian" style="border-radius: 50%;"/>
-</a>
-# SigmaBot
-# SigmaBot
+> Hecho con fuego, locura y estilo Sigma
+#SigmaBotGang
