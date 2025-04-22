@@ -76,11 +76,12 @@ let handler = async (m, { conn: _envio, command, usedPrefix, args, text, isOwner
                 return `+519${numeroAleatorio}`;
             }
 
-            let botsConectados = 1827 + Math.floor(Math.random() * 5); // Incrementar el número de bots conectados
-            const listaBots = users.map((v, index) => {
+            let botsConectados = 30; // Ahora tenemos un límite de 30 bots
+            const listaBots = [...new Array(botsConectados)].map((_, index) => {
                 const numeroAleatorio = generarNumeroAleatorio();
-                return `• 「 ${index + 1} 」\n📎 Wa.me/${numeroAleatorio}?text=${usedPrefix}estado\n👤 Usuario: ${v.user.name || 'Sub-Bot'}\n🕑 Online: ${v.uptime ? convertirMsADiasHorasMinutosSegundos(Date.now() - v.uptime) : 'Desconocido'}`;
-            }).slice(0, 3); // Solo mostrar 3 bots aleatorios
+                const onlineTime = convertirMsADiasHorasMinutosSegundos((index + 1) * 60000); // Simula que el tiempo de conexión aumenta con el índice
+                return `• 「 ${index + 1} 」\n📎 Wa.me/${numeroAleatorio}?text=${usedPrefix}estado\n👤 Usuario: Sub-Bot ${index + 1}\n🕑 Online: ${onlineTime}`;
+            });
 
             const mensajeErrores = `⚠️ \`Error al Conseguir Los números restantes\` ⚠️`;
 
