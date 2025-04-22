@@ -50,10 +50,10 @@ global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = '🟡 MayCoins'
+global.moneda = '💰 💛 𝙼𝚊𝚢𝙲𝚘𝚒𝚗𝚜 💛 💰'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://i.postimg.cc/ncF9s4gV/descarga-1-1.png'
+global.banner = 'https://i.postimg.cc/g0RPdSSL/4-sin-t-tulo-20250422012007.jpg'
 global.avatar = 'https://i.postimg.cc/W1P24C13/descarga-24.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
